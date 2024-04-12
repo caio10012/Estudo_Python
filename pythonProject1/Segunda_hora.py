@@ -51,3 +51,32 @@ import time
 #    print(i)
 
 #Lista
+
+#food = ["pizza","sushi","tomate","ovo","carne"]
+#food.append("sorvete")
+#food[0] = "pepino"
+#food.remove("tomate")
+#food.pop()
+#food.insert(0,"bolo")
+#food.sort()
+#food.clear()
+#print(food[0])
+#for i in food:
+#    print(i)
+
+#2D Lists
+
+#bebida = ["agua","suco","coca"]
+#jantar = ["macarrão","arroz","vitamina"]
+#sobremesa = ["sorvete","bolo"]
+
+#comida = [bebida,jantar,sobremesa]
+#print(comida[0][1])
+
+#tupla
+
+#student = ("caio",21,"gender")
+#print(student.count("caio"))
+#print(student.index("gender"))
+
+#set
