@@ -80,3 +80,54 @@ import time
 #print(student.index("gender"))
 
 #set
+
+#utensils = {"colher","garfo","faca","faca","faca"}
+#utensils.add("tampa")
+#utensils.remove("tampa")
+
+#pratos = {"prato","copo",'bowl',"colher"}
+#utensils.update(pratos)
+#dinner_table = utensils.union(pratos)
+#for i in utensils:
+#    print(i)
+#print(utensils.difference(pratos))
+#print(utensils.intersection(pratos))
+
+#dicionário
+
+#capitais = {'USA':'Washington',
+ #           'India':'New dehli',
+ #           'China':'Beijing',
+ #            'Russia': 'Moscow'}
+
+#capitais.update({'Alemanha':'Berlin'})
+#capitais.update({'USA':'Las vegas'})
+#print(capitais['Brasil'])
+#print(capitais.get('UBR'))
+#capitais.pop('Russia')
+#print(capitais.keys())
+#print(capitais.values())
+#print(capitais.items())
+#for key,value in capitais.items():
+#    print(key,value)
+
+#Operador index
+
+#name = "caio Fontes!"
+#if(name[0].islower()):
+#    name = name.capitalize()
+#primeiro_nome = name[:4].upper()
+#ultimo_nome = name[5:].lower()
+#ultimo_caractere = name[-1]
+#print(primeiro_nome)
+#print(ultimo_nome)
+#print(ultimo_caractere)
+#print(name)
+
+#função
+
+#def hello(primeiro_nome,ultimo_nome,idade):
+#    print("ola " + primeiro_nome + " " + ultimo_nome + " a sua idade é " + str(idade))
+#    print("opa")
+#hello("Caio","Fontes", 21)
+
