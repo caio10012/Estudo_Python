@@ -57,5 +57,38 @@
 #print(cubo.volume())
 
 
-#classes abstratas
+#classes abstract
+
+#from abc import ABC,abstractmethod
+
+#class veiculo(ABC):
+#    @abstractmethod
+#    def go(self):
+#        pass
+
+#    @abstractmethod
+#    def stop(self):
+#        pass
+
+#class carro(veiculo):
+#    def go(self):
+#        print("estou dirigindo um carro")
+
+#    def stop(self):
+#        print("estou parando um carro")
+
+#class moto(veiculo):
+#    def go(self):
+#        print("estou dirigindo uma moto")
+
+#    def stop(self):
+#        print("estou parando uma moto")
+
+#carro = carro()
+#moto = moto()
+
+#carro.stop()
+#moto.go()
+
+#objects as arguments
 
